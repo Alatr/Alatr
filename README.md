@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BB%D1%83%D0%BA%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2-72b8b1174/" target="_blank">
     <img align="left" src="https://user-images.githubusercontent.com/42271438/140658984-baea7841-82dc-4188-a474-fc6a8241fe97.png" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/?hl=ru" target="_blank">
+  <a href="https://www.instagram.com/dima__lukianov/?hl=ru" target="_blank">
     <img align="left" src="https://user-images.githubusercontent.com/42271438/140658679-29faa5d2-da20-40cd-bb66-de076569fb20.png" alt="Instagram">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100004304766616" target="_blank">
@@ -48,7 +48,7 @@
  <a href="https://twitter.com/dimalukianovweb" target="_blank">
     <img align="left" src="https://user-images.githubusercontent.com/42271438/140658854-8b11237c-2883-47dd-8923-be33829e788e.png" alt="Twitter">
   </a>
-   <a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
+   <a href="mailto:dimalukianovweb@gmail.com" mailto="dimalukianovweb@gmail.com" target="_blank">
     <img align="left" src="https://user-images.githubusercontent.com/42271438/140658917-9c25fbd1-af9f-46b6-8e9f-45684b2d74cb.png" alt="Gmail">
   </a>
   <a href="https://t.me/SlackLifee" target="_blank">
