@@ -2,9 +2,8 @@
 ### Hi there, I'm Dmytro Lukianov 👋
 
 <div align="center">
-  <img width="100%" src="![wall](https://user-images.githubusercontent.com/42271438/140640152-34614087-db61-416e-b076-05d88faaab69.jpg)" alt="cover" />
+  <img width="100%" src="https://user-images.githubusercontent.com/42271438/140640152-34614087-db61-416e-b076-05d88faaab69.jpg" alt="cover" />
 </div>
-![wall](https://user-images.githubusercontent.com/42271438/140640152-34614087-db61-416e-b076-05d88faaab69.jpg)
 <!--
 **Alatr/Alatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
