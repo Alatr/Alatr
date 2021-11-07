@@ -1,5 +1,4 @@
-
-### Hi there, I'm Dmytro Lukianov 👋
+### hello world, I'm Dmytro Lukianov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/42271438/140640152-34614087-db61-416e-b076-05d88faaab69.jpg" alt="cover" />
@@ -16,30 +15,20 @@ I am  Dmytro Lukianov from Ukraine, I'm a web developer and i like programming ,
 
 <h2><i>Follow me:</i></h2>
 <div  align="center">
-  <a href="#" target="_blank">
-    <img src="#" alt="LinkedIn">
+  <a href="#" target="_blank"  style="margin: 20px">
+    <img src="https://user-images.githubusercontent.com/42271438/140658984-baea7841-82dc-4188-a474-fc6a8241fe97.png" alt="LinkedIn">
   </a>
   <a href="#" target="_blank">
-    <img src="#" alt="Instagram">
+    <img src="https://user-images.githubusercontent.com/42271438/140658679-29faa5d2-da20-40cd-bb66-de076569fb20.png" alt="Instagram">
   </a>
   <a href="#" target="_blank">
-    <img src="#" alt="Facebook">
+    <img src="https://user-images.githubusercontent.com/42271438/140658843-7c737541-2277-4de2-b548-7a1baacc4d1f.png" alt="Facebook">
   </a>
-
  <a href="#" target="_blank">
-    <img src="#" alt="Twitter">
+    <img src="https://user-images.githubusercontent.com/42271438/140658854-8b11237c-2883-47dd-8923-be33829e788e.png" alt="Twitter">
   </a>
    <a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
-    <img src="#" alt="Gmail">
-  </a>
-  <a href="#" target="_blank">
-    <img src="#" alt="Freelancer">
-  </a>
-  <a href="#" target="_blank">
-    <img src="#" alt="Upwork">
-  </a>
-  <a href="#" target="_blank">
-    <img src="#" alt="Fiver">
+    <img src="https://user-images.githubusercontent.com/42271438/140658917-9c25fbd1-af9f-46b6-8e9f-45684b2d74cb.png" alt="Gmail">
   </a>
 </div>
 
