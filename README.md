@@ -2,9 +2,9 @@
 ### Hi there, I'm Dmytro Lukianov 👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/cover.png" alt="cover" />
+  <img width="100%" src="![wall](https://user-images.githubusercontent.com/42271438/140640152-34614087-db61-416e-b076-05d88faaab69.jpg)" alt="cover" />
 </div>
-
+![wall](https://user-images.githubusercontent.com/42271438/140640152-34614087-db61-416e-b076-05d88faaab69.jpg)
 <!--
 **Alatr/Alatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,27 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-        <span><strong>Programming Languages & Frameworks</strong></span>
-      </td>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
-      </td>
-    </tr>
-  </tbody>
-  
-</table>
-</div>
 
 ## About me
 I am  Dmytro Lukianov from Ukraine, I'm a web developer and i like programming , design, photography and I always want to learn new things.
